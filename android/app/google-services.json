@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "398529024776",
+    "project_id": "warungkadet-577cc",
+    "storage_bucket": "warungkadet-577cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398529024776:android:edf929667e6d8b6d9052bd",
+        "android_client_info": {
+          "package_name": "com.example.wk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398529024776-los4ehmmq4bo03cg1o70egg0cmhnbq5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wk",
+            "certificate_hash": "95d0fb40896fd62cb71beca268d408229fb9e4e1"
+          }
+        },
+        {
+          "client_id": "398529024776-r2skjue6siabdi0jmqma37cr2otpf1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQwYe7RzWgqXc-8EQzekO6OKK9V2lX1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398529024776-r2skjue6siabdi0jmqma37cr2otpf1ue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398529024776-78fqcm9aoeo9id0k0811sdjejr6d3ltu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
